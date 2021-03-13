@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>H:/Coding/2021/TestMatch3/TestMatch3/TestMatch3/Content/BackGame.png</File>
+    <File>H:/Coding/2021/TestMatch3/TestMatch3/TestMatch3/Content/Board.png</File>
+    <File>H:/Coding/2021/TestMatch3/TestMatch3/TestMatch3/Content/Bomb.png</File>
+    <File>H:/Coding/2021/TestMatch3/TestMatch3/TestMatch3/Content/candara.spritefont</File>
+    <File>H:/Coding/2021/TestMatch3/TestMatch3/TestMatch3/Content/Cell.png</File>
+    <File>H:/Coding/2021/TestMatch3/TestMatch3/TestMatch3/Content/Circle.png</File>
+    <File>H:/Coding/2021/TestMatch3/TestMatch3/TestMatch3/Content/CircleSelect.png</File>
+    <File>H:/Coding/2021/TestMatch3/TestMatch3/TestMatch3/Content/Cross.png</File>
+    <File>H:/Coding/2021/TestMatch3/TestMatch3/TestMatch3/Content/CrossSelect.png</File>
+    <File>H:/Coding/2021/TestMatch3/TestMatch3/TestMatch3/Content/Default.png</File>
+    <File>H:/Coding/2021/TestMatch3/TestMatch3/TestMatch3/Content/Destroyer.png</File>
+    <File>H:/Coding/2021/TestMatch3/TestMatch3/TestMatch3/Content/HLine.png</File>
+    <File>H:/Coding/2021/TestMatch3/TestMatch3/TestMatch3/Content/Pressed.png</File>
+    <File>H:/Coding/2021/TestMatch3/TestMatch3/TestMatch3/Content/Rhombus.png</File>
+    <File>H:/Coding/2021/TestMatch3/TestMatch3/TestMatch3/Content/RhombusSelect.png</File>
+    <File>H:/Coding/2021/TestMatch3/TestMatch3/TestMatch3/Content/Square.png</File>
+    <File>H:/Coding/2021/TestMatch3/TestMatch3/TestMatch3/Content/SquareSelect.png</File>
+    <File>H:/Coding/2021/TestMatch3/TestMatch3/TestMatch3/Content/Triangle.png</File>
+    <File>H:/Coding/2021/TestMatch3/TestMatch3/TestMatch3/Content/TriangleSelect.png</File>
+    <File>H:/Coding/2021/TestMatch3/TestMatch3/TestMatch3/Content/VLine.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

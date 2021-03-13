@@ -1,0 +1,9 @@
+H:\Coding\2021\TestMatch3\TestMatch3\MatchCore\bin\Debug\MatchCore.dll
+H:\Coding\2021\TestMatch3\TestMatch3\MatchCore\bin\Debug\MatchCore.pdb
+H:\Coding\2021\TestMatch3\TestMatch3\MatchCore\bin\Debug\MonoGame.Framework.dll
+H:\Coding\2021\TestMatch3\TestMatch3\MatchCore\bin\Debug\MonoGame.Framework.xml
+H:\Coding\2021\TestMatch3\TestMatch3\MatchCore\obj\Debug\MatchCore.csprojAssemblyReference.cache
+H:\Coding\2021\TestMatch3\TestMatch3\MatchCore\obj\Debug\MatchCore.csproj.CoreCompileInputs.cache
+H:\Coding\2021\TestMatch3\TestMatch3\MatchCore\obj\Debug\MatchCore.csproj.CopyComplete
+H:\Coding\2021\TestMatch3\TestMatch3\MatchCore\obj\Debug\MatchCore.dll
+H:\Coding\2021\TestMatch3\TestMatch3\MatchCore\obj\Debug\MatchCore.pdb

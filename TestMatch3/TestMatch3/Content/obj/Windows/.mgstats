@@ -1,0 +1,21 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"H:/Coding/2021/TestMatch3/TestMatch3/TestMatch3/Content/BackGame.png","H:/Coding/2021/TestMatch3/TestMatch3/TestMatch3/Content/bin/Windows/BackGame.xnb","TextureProcessor","Texture2DContent",204,1920085,0,2439296
+"H:/Coding/2021/TestMatch3/TestMatch3/TestMatch3/Content/Board.png","H:/Coding/2021/TestMatch3/TestMatch3/TestMatch3/Content/bin/Windows/Board.xnb","TextureProcessor","Texture2DContent",267,4000085,0,1229621
+"H:/Coding/2021/TestMatch3/TestMatch3/TestMatch3/Content/Bomb.png","H:/Coding/2021/TestMatch3/TestMatch3/TestMatch3/Content/bin/Windows/Bomb.xnb","TextureProcessor","Texture2DContent",937,4181,0,0019996
+"H:/Coding/2021/TestMatch3/TestMatch3/TestMatch3/Content/candara.spritefont","H:/Coding/2021/TestMatch3/TestMatch3/TestMatch3/Content/bin/Windows/candara.xnb","FontDescriptionProcessor","SpriteFontContent",2010,37905,0,23993
+"H:/Coding/2021/TestMatch3/TestMatch3/TestMatch3/Content/Cell.png","H:/Coding/2021/TestMatch3/TestMatch3/TestMatch3/Content/bin/Windows/Cell.xnb","TextureProcessor","Texture2DContent",138,4181,0,0010002
+"H:/Coding/2021/TestMatch3/TestMatch3/TestMatch3/Content/Circle.png","H:/Coding/2021/TestMatch3/TestMatch3/TestMatch3/Content/bin/Windows/Circle.xnb","TextureProcessor","Texture2DContent",637,4181,0,0019983
+"H:/Coding/2021/TestMatch3/TestMatch3/TestMatch3/Content/CircleSelect.png","H:/Coding/2021/TestMatch3/TestMatch3/TestMatch3/Content/bin/Windows/CircleSelect.xnb","TextureProcessor","Texture2DContent",1258,4181,0,0019999
+"H:/Coding/2021/TestMatch3/TestMatch3/TestMatch3/Content/Cross.png","H:/Coding/2021/TestMatch3/TestMatch3/TestMatch3/Content/bin/Windows/Cross.xnb","TextureProcessor","Texture2DContent",390,4181,0,0019989
+"H:/Coding/2021/TestMatch3/TestMatch3/TestMatch3/Content/CrossSelect.png","H:/Coding/2021/TestMatch3/TestMatch3/TestMatch3/Content/bin/Windows/CrossSelect.xnb","TextureProcessor","Texture2DContent",1226,4181,0,0060024
+"H:/Coding/2021/TestMatch3/TestMatch3/TestMatch3/Content/Default.png","H:/Coding/2021/TestMatch3/TestMatch3/TestMatch3/Content/bin/Windows/Default.xnb","TextureProcessor","Texture2DContent",1751,19285,0,0029985
+"H:/Coding/2021/TestMatch3/TestMatch3/TestMatch3/Content/Destroyer.png","H:/Coding/2021/TestMatch3/TestMatch3/TestMatch3/Content/bin/Windows/Destroyer.xnb","TextureProcessor","Texture2DContent",1002,4181,0,0009993
+"H:/Coding/2021/TestMatch3/TestMatch3/TestMatch3/Content/HLine.png","H:/Coding/2021/TestMatch3/TestMatch3/TestMatch3/Content/bin/Windows/HLine.xnb","TextureProcessor","Texture2DContent",432,4181,0,0009997
+"H:/Coding/2021/TestMatch3/TestMatch3/TestMatch3/Content/Pressed.png","H:/Coding/2021/TestMatch3/TestMatch3/TestMatch3/Content/bin/Windows/Pressed.xnb","TextureProcessor","Texture2DContent",3677,19285,0,0009992
+"H:/Coding/2021/TestMatch3/TestMatch3/TestMatch3/Content/Rhombus.png","H:/Coding/2021/TestMatch3/TestMatch3/TestMatch3/Content/bin/Windows/Rhombus.xnb","TextureProcessor","Texture2DContent",398,4181,0,0029999
+"H:/Coding/2021/TestMatch3/TestMatch3/TestMatch3/Content/RhombusSelect.png","H:/Coding/2021/TestMatch3/TestMatch3/TestMatch3/Content/bin/Windows/RhombusSelect.xnb","TextureProcessor","Texture2DContent",1097,4181,0,002
+"H:/Coding/2021/TestMatch3/TestMatch3/TestMatch3/Content/Square.png","H:/Coding/2021/TestMatch3/TestMatch3/TestMatch3/Content/bin/Windows/Square.xnb","TextureProcessor","Texture2DContent",211,4181,0,0019984
+"H:/Coding/2021/TestMatch3/TestMatch3/TestMatch3/Content/SquareSelect.png","H:/Coding/2021/TestMatch3/TestMatch3/TestMatch3/Content/bin/Windows/SquareSelect.xnb","TextureProcessor","Texture2DContent",344,4181,0,0019999
+"H:/Coding/2021/TestMatch3/TestMatch3/TestMatch3/Content/Triangle.png","H:/Coding/2021/TestMatch3/TestMatch3/TestMatch3/Content/bin/Windows/Triangle.xnb","TextureProcessor","Texture2DContent",413,4181,0,0009991
+"H:/Coding/2021/TestMatch3/TestMatch3/TestMatch3/Content/TriangleSelect.png","H:/Coding/2021/TestMatch3/TestMatch3/TestMatch3/Content/bin/Windows/TriangleSelect.xnb","TextureProcessor","Texture2DContent",1070,4181,0,0009995
+"H:/Coding/2021/TestMatch3/TestMatch3/TestMatch3/Content/VLine.png","H:/Coding/2021/TestMatch3/TestMatch3/TestMatch3/Content/bin/Windows/VLine.xnb","TextureProcessor","Texture2DContent",486,4181,0,0009993
